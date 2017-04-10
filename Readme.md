@@ -1,3 +1,15 @@
+goal:
+team planner / event planner
+as a team leader i should be able to see at once who can participate in x event, add them to the list, slot used for everyone planned
+tools must switch back every days, every starting week. slot used
+as a player i must use the tools accordingly so team leader can see, i can what my slot are
+
+store list ?
+
+difficult:
+ui / ux design, must be easier to use compared to an existing event planner like phpraider or so
+
+
 possible gem use
 - devise
 - rspec
