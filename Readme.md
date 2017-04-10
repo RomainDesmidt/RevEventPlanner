@@ -7,7 +7,7 @@ as a player i must use the tools accordingly so team leader can see, i can what 
 store list ?
 
 difficult:
-ui / ux design, must be easier to use compared to an existing event planner like phpraider or so
+ui / ux design, must be easier, funnier to use compared to an existing event planner like phpraider or so
 
 
 possible gem use
